@@ -43,9 +43,9 @@
 - [x] Changes on the user interface are made after `Usability Testings`.
 
 <br/>
-<kbd>
+
 ![Main Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/signin.png)
-</kbd>
+
 <br/>
 
 ![Schools Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/home.png)
@@ -55,4 +55,5 @@
 ![Main Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/schools.png)
 
 <br/>
+
 
