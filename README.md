@@ -2,9 +2,14 @@
 
 <!-- PROJECT LOGO -->
 <br/>
-<div align="center">
+<!-- <div align="center">
     <img src="images/touro-university-logo-blue.png" width=120 alt="Touro University Logo">
     <h2 align="center">Graduate School of Technology</h2>
+    <h3 align="center">WMMN 613 Interactive Design for the Web Course Final Project</h3>
+</div> -->
+
+<div align="center">
+    <img src="images/top.png" alt="Top image">
     <h3 align="center">WMMN 613 Interactive Design for the Web Course Final Project</h3>
 </div>
 
