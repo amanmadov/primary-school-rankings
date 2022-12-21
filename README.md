@@ -48,11 +48,11 @@
 
 <br/>
 
-![Schools Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/home.png)
+<kbd>![Schools Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/home.png)</kbd>
 
 <br/>
 
-![Main Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/schools.png)
+<kbd>![Main Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/schools.png)</kbd>
 
 <br/>
 
