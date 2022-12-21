@@ -44,7 +44,7 @@
 
 <br/>
 
-![Main Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/signin.png)
+<kbd>![Main Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/signin.png)</kbd>
 
 <br/>
 
