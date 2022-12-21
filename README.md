@@ -14,7 +14,8 @@
 </div>
 
 <p align="justify">
-    This is a simple <code>UX/UI</code> project created with <code>Adobe XD</code>. Project simulates a website where users can find detailed information about <strong>primary schools</strong>. The project was inspired by the various difficulties a real user had in finding a good primary school for his daughter. In general, it is important for parents to conduct thorough research and evaluate a range of factors when deciding on a school for their child. This can include information about the school's <strong>academic performance</strong>, <strong>extracurricular activities</strong>, and other <strong>programs</strong> and amenities offered, as well as <strong>parent reviews</strong> and other sources of information. By considering a variety of factors and using data to make informed decisions, parents can ensure that their child receives the best possible education.The final product in this project can be useful to meet this demand.
+    This is a simple <code>UX/UI</code> project created with <code>Adobe XD</code>. Project simulates a website where users can find detailed information about <strong>primary schools</strong>. The project was inspired by the various difficulties a real user had in finding a good primary school for his daughter. In general, it is important for parents to conduct thorough research and evaluate a range of factors when deciding on a school for their child. This can include information about the school's <strong>academic performance</strong>, <strong>extracurricular activities</strong>, and other <strong>programs</strong> and amenities offered, as well as <strong>parent reviews</strong> and other sources of information. By considering a variety of factors and using data to make informed decisions, parents can ensure that their child receives the best possible education.
+    <br>The final product in this project can be useful to meet this demand.
 </p>
 
 <br/>
