@@ -8,7 +8,9 @@
     <h3 align="center">WMMN 613 Interactive Design for the Web Course Final Project</h3>
 </div>
 
-This is a simple `UX/UI` project created with **Adobe XD**. Project simulates a website where users can find detailed information about **primary schools**. The project was inspired by the various difficulties a real user had in finding a good primary school for his daughter. In general, it is important for parents to conduct thorough research and evaluate a range of factors when deciding on a school for their child. This can include information about the school's **academic performance**, **extracurricular activities**, and other **programs** and amenities offered, as well as **parent reviews** and other sources of information. By considering a variety of factors and using data to make informed decisions, parents can ensure that their child receives the best possible education.The final product in this project can be useful to meet this demand.
+<div style="text-align: justify">
+    This is a simple <code>UX/UI</code> project created with <strong>Adobe XD<strong>. Project simulates a website where users can find detailed information about <strong>primary schools<strong>. The project was inspired by the various difficulties a real user had in finding a good primary school for his daughter. In general, it is important for parents to conduct thorough research and evaluate a range of factors when deciding on a school for their child. This can include information about the school's <strong>academic performance<strong>, <strong>extracurricular activities<strong>, and other <strong>programs<strong> and amenities offered, as well as <strong>parent reviews<strong> and other sources of information. By considering a variety of factors and using data to make informed decisions, parents can ensure that their child receives the best possible education.The final product in this project can be useful to meet this demand.
+</div>
 
 <br/>
 
