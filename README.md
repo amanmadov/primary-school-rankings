@@ -44,7 +44,16 @@
 
 <br/>
 
-![Main Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/home.png)
+![Main Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/signin.png)
 
 <br/>
+
+![Schools Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/home.png)
+
+<br/>
+
+![Main Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/schools.png)
+
+<br/>
+
 
