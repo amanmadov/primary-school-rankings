@@ -15,7 +15,7 @@ This can include information about the school's **academic performance**, **extr
 By considering a variety of factors and using data to make informed decisions, parents can ensure that their child receives the best possible education.
 The final product in this project can be useful to meet this demand.
 
-<br/>
+
 ## Technologies Used
  - Adobe XD version 55.2.12.2
  - Adobe Photoshop version 24.1.0
