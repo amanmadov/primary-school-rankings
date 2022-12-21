@@ -44,11 +44,11 @@
 
 <br/>
 
-<kbd>![Main Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/signin.png)</kbd>
+<kbd>![Main Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/app.gif)</kbd>
 
 <br/>
 
-<kbd>![Schools Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/home.png)</kbd>
+<!-- <kbd>![Schools Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/home.png)</kbd>
 
 <br/>
 
@@ -56,4 +56,4 @@
 
 <br/>
 
-
+ -->
