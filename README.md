@@ -42,6 +42,9 @@
 - [x] Additional functionalities are created after `Usability Testings`.
 - [x] Changes on the user interface are made after `Usability Testings`.
 
+<br/>
+
+![Main Page Image](https://github.com/amanmadov/primary-school-rankings/blob/main/images/home.png)
 
 <br/>
 
