@@ -9,7 +9,7 @@
 </div> -->
 
 <div align="center">
-    <img src="images/top.png" alt="Top image">
+    <img src="images/top.png" alt="header image">
     <h3 align="center">WMMN 613 Interactive Design for the Web Course Final Project</h3>
 </div>
 
@@ -62,3 +62,8 @@
 <br/>
 
  -->
+
+
+<div align="center">
+    <img src="images/footer.png" alt="footer image">
+</div>
