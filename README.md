@@ -10,7 +10,7 @@
 
 <div align="center">
     <img src="images/top.png" alt="header image">
-    <h2 align="center">Graduate School of Technology <br> WMMN 613-Interactive Design for the Web Course Final Project</h2>
+    <h3 align="center">Graduate School of Technology <br> WMMN 613-Interactive Design for the Web Course Final Project</h3>
     <br>
 </div>
 
