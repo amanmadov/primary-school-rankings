@@ -10,7 +10,7 @@
 
 <div align="center">
     <img src="images/top.png" alt="header image">
-    <h3 align="center">Graduate School of Technology <br> WMMN 613-Interactive Design for the Web Course Final Project</h3>
+    <h3 align="center">Touro University<br>Graduate School of Technology <br> WMMN 613-Interactive Design for the Web Course Final Project</h3>
     <br>
 </div>
 
